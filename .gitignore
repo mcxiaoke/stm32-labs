@@ -1,0 +1,10 @@
+# STM32Cube copied library and project folders
+*/Debug/
+*/Drivers/*
+*/MDK-ARM/*
+*/EWARM/*
+
+*/*.o
+*/*.bin
+*/*.elf
+*/.mxproject
